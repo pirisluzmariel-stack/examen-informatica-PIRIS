@@ -16,7 +16,9 @@ utiliza la Nomenclatura Común del MERCOSUR (NCM) para la declaración de la mer
 Marcá cada uno con **[VERIFICADO]** si lo contrastaste con la fuente original o **[REVISAR]** si no pudiste verificarlo.
 
 1.**El flete y el despacho dominan el costo logístico:** El flete terrestre (USD 450) y los honorarios de despacho aduanero (USD 250) representan juntos más del **74% del costo logístico total** (USD 936)[11][14] [VERIFICADO]**
+
 2.**Impacto de la escala en el producto fraccionado:** Al dividir el volumen de 500 kg en 1.000 paquetes de 500 g en lugar de sacos mayoristas de 25 kg, el costo logístico fijo se diluye significativamente a apenas **USD 0,936 por unidad**, facilitando un precio competitivo en góndola de USD 3,82 [REVISAR]**
+
 3.**El paso fronterizo es el cuello de botella temporal:** Aunque el recorrido por carretera toma únicamente unas 6 horas de rodaje efectivo, la frontera Posadas–Encarnación requiere prever márgenes amplios de tiempo debido a los controles fitosanitarios (SENASA/SENAVE), migratorios y eventual congestión en el puente [VERIFICADO]**
 
 ## Datos que voy a usar en la planilla
